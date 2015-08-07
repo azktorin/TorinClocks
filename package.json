@@ -1,0 +1,21 @@
+{
+  "name": "torin_clock",
+  "version": "1.0.0",
+  "description": "awesome clock for tophope",
+  "main": "index.html",
+  "window": {
+    "width": 505,
+    "height": 505,
+    "title": "Torin Clock",
+    "toolbar": false,
+    "frame": false,
+    "position": "center",
+    "transparent": true,
+    "resizable": false
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "me.barak.torinclock",
+  "license": "ISC"
+}
